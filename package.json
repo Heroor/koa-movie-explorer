@@ -6,9 +6,11 @@
   "author": "ben <2388697970@qq.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node server"
+    "start": "nodemon server"
   },
   "dependencies": {
-    "koa": "^2.5.1"
+    "ejs": "^2.6.1",
+    "koa": "^2.5.1",
+    "pug": "^2.0.3"
   }
 }

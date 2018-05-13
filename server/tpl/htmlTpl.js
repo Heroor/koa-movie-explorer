@@ -14,7 +14,7 @@ module.exports = `
   <div class="row">
     <div class="col-md-8">
       <h1>Hi Tom</h1>
-      <p>This is a server page</p>
+      <p>This is a html page</p>
     </div>
     <div class="col-md-4">
       <p>Welcome to this page!</p>
